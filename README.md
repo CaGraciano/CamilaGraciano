@@ -1,1 +1,1 @@
-Repositório pessoal com alguns projetos desenvolvidos durante o curso de Desenvolvimento Web Full Stack na Labenu ![image](https://user-images.githubusercontent.com/93138077/165828139-793d2abf-8ec0-413f-84b1-e725ad343f36.png)
+Repositório pessoal com alguns projetos desenvolvidos durante o curso de Desenvolvimento Web Full Stack na Labenu.
